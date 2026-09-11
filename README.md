@@ -46,7 +46,3 @@ What I Learned
 - *GitHub Repo*: https://github.com/HAS-hub-bot/sandbox_workspace
 - Built by: *HAS-hub-bot*  
 #AI #LangGraph #Streamlit #MachineLearning #OpenToWork
-
-
-Commit ho jaye to link bhej do, main 10/10 dunga. 
-Agla target: LinkedIn post ya naya project?
