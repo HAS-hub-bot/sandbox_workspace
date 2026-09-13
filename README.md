@@ -1,4 +1,12 @@
-# 🤖 Multi-Agent AI Engineering Dashboard
+### 🤖 Multi-Agent AI
+
+Ye ek Multi-Agent AI hai jo [yahan 1 line me batao kya karta hai]. 
+Example: "multiple AI agents ko saath me kaam karwata hai"
+
+## 🚀 Kaise Use Karein
+```bash
+pip install -r requirements.txt
+python app.py 🤖 Multi-Agent AI Engineering Dashboard
 **Tagline:** LangGraph + Gemini + Streamlit se automated code generation pipeline
 An AI-powered system that automates the entire software engineering workflow using 4 collaborating LLM agents.
 ## 🚀 Live Demo
