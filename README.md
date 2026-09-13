@@ -1,6 +1,6 @@
 ### 🤖 Multi-Agent AI
 
-Ye ek Multi-Agent AI hai jo [yahan 1 line me batao kya karta hai]. 
+Ye ek Multi-Agent AI hai jo
 Example: "multiple AI agents ko saath me kaam karwata hai"
 
 ## 🚀 Kaise Use Karein
